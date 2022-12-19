@@ -1,0 +1,4 @@
+Nama : Ikhron Jamal Fuadi
+Umur :28 Tahun
+Stack : Mobile
+Bahasa Pemrograman : Dart
